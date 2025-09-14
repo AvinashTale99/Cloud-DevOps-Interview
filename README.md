@@ -10,7 +10,7 @@ All notes, PDFs, and resources are organized here to keep everything in one plac
 ---
 
 ## 📂 Repository Structure  
-
+```
 .
 ├── 📑 PDFs/ # Study materials, whitepapers, guides
 ├── 📝 Notes/ # Topic-wise markdown notes
@@ -18,7 +18,7 @@ All notes, PDFs, and resources are organized here to keep everything in one plac
 ├── 🎯 AWS_SAA/ # AWS Solutions Architect Associate exam prep
 ├── 🚀 DevOps_Interviews/ # DevOps & Cloud Engineer prep
 └── README.md # Repository overview
-
+```
 
 ---
 
